@@ -1,0 +1,4 @@
+Making a complex c1 with re=1, im=2
+c1.Re() = 1, c1.Im() = 2
+c2: copy of c1
+c2.Re() = 1, c2.Im() = 2
